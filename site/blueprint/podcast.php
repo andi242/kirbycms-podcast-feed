@@ -9,7 +9,7 @@ fields:
     width: 1/2
     type:  text
   date:
-    label: Datum
+    label: Date
     type: date
     width: 1/2
     default: today
